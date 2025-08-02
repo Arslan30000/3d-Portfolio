@@ -10,7 +10,7 @@ const NavBar = () => {
         </a>
 
         {/* Nav Links */}
-        <nav className="hidden md:flex gap-8 items-center">
+       <nav className="flex flex-col md:flex-row gap-4 md:gap-8 items-center">
           <a href="#counter" className="text-sm font-medium hover:text-yellow-400 transition duration-300">
             My Academic Background
           </a>
