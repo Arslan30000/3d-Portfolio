@@ -48,8 +48,7 @@ const Hero = () => {
               <h1>into real Projects</h1>
                <hr className="my-6 border-black-50 opacity-50" />
               <p className="text-white-50 text-sm relative z-10 pointer-events-none">
-                Hi I am Arslan, a developer based in Pakistan, with a passion for web development and Coding<br /> I love creating interactive and engaging web experiences that bring ideas to life.
-              </p>
+                Hi, I am Muhammad Arslan. I am a CS student at FAST NUCES building robust software solutions—from offline-first native Android applications to AI-driven tools and full-stack web platforms.              </p>
                <hr className="my-6 border-black-50 opacity-50" />
             
             </div>
@@ -62,9 +61,7 @@ const Hero = () => {
         </figure>
       </div>
         <div className="text-content my-12 text-center">
-  <h2 className="text-4xl font-extrabold text-white tracking-tight mb-4">
-    My Academic Achievements and Background
-  </h2>
+  
   <div className="mx-auto w-24 h-1 bg-violet-500 rounded"></div>
 </div>
       <AnimatedCounter />
